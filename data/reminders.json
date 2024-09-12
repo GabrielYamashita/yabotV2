@@ -5,8 +5,26 @@
             "reminder": [
                 0
             ],
-            "time": "09:00",
+            "time": "06:00",
             "message": "Bom dia, Hora de Acordar!"
+        },
+        {
+            "reminderType": "W",
+            "reminder": [
+                3,
+                5
+            ],
+            "time": "09:30",
+            "message": "Aula de Controle de Nanossatélite"
+        },
+        {
+            "reminderType": "W",
+            "reminder": [
+                3,
+                5
+            ],
+            "time": "15:30",
+            "message": "Aula de NLP"
         },
         {
             "reminderType": "W",
@@ -45,8 +63,8 @@
         {
             "reminderType": "M",
             "reminder": [
-                20, 
-                25
+                25, 
+                27
             ],
             "time": "15:00",
             "message": "Fa\u00e7a o Registro de Horas do M\u00eas"
